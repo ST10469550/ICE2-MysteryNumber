@@ -19,7 +19,7 @@ restart button to play again.
 -[Group Reflection](#GroupReflection)
 -[App Features](#AppFeatures)
 -[Images/Screenshots](#Images/Screenshots)
--[GitHub Link](#GitHub Link)
+-[GitHub Link](#GitHubLink)
 
 ## Game Flow
 
